@@ -1,0 +1,9 @@
+h1{
+    color: blue;
+}
+form{
+    background-color: palegreen;
+    margin: 200px 300px 200px;
+    text-align: left;
+    border:5px solid black;
+}
